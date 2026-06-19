@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gogdaampions.github.io/portal-mahjonghu-com-2/sitemap.xml
